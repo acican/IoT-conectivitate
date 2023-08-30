@@ -16,14 +16,18 @@ Pentru controlul acestor dispozitive au aparut aplicatiile specializate, de regu
 La inceputul anului 2023 sunt anuntate dispozitive si aplicatii care sa cosespunda standardului matter. Probabil ca o sa se continue cu productia de componente specializate in care partea radio raspunde atat protocolului zigbee cat si thread chiar si BLE, asa cum apar in lista de aici, "https://www.everythingrf.com/search/rf-modules/filters?page=1&country=global&stechnology=;Thread;".
 
 Pentru probe sunt interesante ofertele de module de test. De exemplu pentru zigbee am testat modulul Core2530(B), XBee-compatibil:
+
 ![Core2530-B_l](https://github.com/acican/IoT-conectivitate/assets/10486613/5e9a4cc2-ae17-403b-83e6-1c4ced260249)
 
 interfata cu controler arduino :
+
 ![XBee_OutputSideCircuit-590x415](https://github.com/acican/IoT-conectivitate/assets/10486613/131f5698-ff8a-4fc3-9947-9c42457e73fd)
 
 De interes este si kit-ul de la NORDIC semiconductor, developer board nRF52840 :
+
 ![nRF52840-DK-prod page](https://github.com/acican/IoT-conectivitate/assets/10486613/c362d1e5-a45a-4f3c-98d1-fde871bde2f6)
 
 eventual cuplat cu NFR52840-DONGLE :
+
 ![2902521-40](https://github.com/acican/IoT-conectivitate/assets/10486613/467c17f8-edd0-42bc-b590-ff767a7b5d1d)
 
