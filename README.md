@@ -19,8 +19,7 @@ Pentru probe sunt interesante ofertele de module de test. De exemplu pentru zigb
 interfata cu controler arduino :
 ![XBee_OutputSideCircuit-590x415](https://github.com/acican/IoT-conectivitate/assets/10486613/131f5698-ff8a-4fc3-9947-9c42457e73fd)
 
-De interes este si kit-ul de la NORDIC semiconductor:
-developer board nRF52840 :
+De interes este si kit-ul de la NORDIC semiconductor, developer board nRF52840 :
 
 ![nRF52840-DK-prod page](https://github.com/acican/IoT-conectivitate/assets/10486613/c362d1e5-a45a-4f3c-98d1-fde871bde2f6)
 
